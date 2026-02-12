@@ -35,15 +35,6 @@ Tenho facilidade em aprender novas tecnologias e gosto de construir sistemas bem
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanGabrielOA&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanGabrielOA&layout=compact&theme=tokyonight)
-
-
----
-
 ## 📫 Contato
 
 - Email: ygoadev@gmail.com
